@@ -1,0 +1,25 @@
+{
+    "name": "ba66e77/psdrutiny",
+    "description": "A whole host of Drutiny goodness, specifically flavored for PS.",
+    "type": "project",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Barrett Smith",
+            "email": "barrett.smith@acquia.com"
+        }
+    ],
+    "require": {
+        "drutiny/plugin-drupal-8": "2.x-dev",
+        "drutiny/drutiny": "2.3.x-dev",
+        "cweagans/composer-patches": "dev-master"
+    },
+    "extra" : {
+        "patches": {
+            "drutiny/plugin-drupal-8" : {
+                "uid": "https://github.com/drutiny/plugin-drupal-8/pull/14.patch",
+                "module-disabled": "https://github.com/drutiny/plugin-drupal-8/pull/13.patch"
+            }
+        }
+    }
+}

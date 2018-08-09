@@ -17,8 +17,7 @@
     "extra" : {
         "patches": {
             "drutiny/plugin-drupal-8" : {
-                "uid": "https://github.com/drutiny/plugin-drupal-8/pull/14.patch",
-                "module-disabled": "https://github.com/drutiny/plugin-drupal-8/pull/13.patch"
+                "uid": "https://github.com/drutiny/plugin-drupal-8/pull/14.patch"
             }
         }
     }

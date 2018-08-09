@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "70dcca98a9d7532f49756d71f5d0a3d2",
+    "content-hash": "e96c59792be40acab24afd2cc1dbf23c",
     "packages": [
         {
             "name": "caseyamcl/toc",
@@ -508,12 +508,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/drutiny/plugin-drupal-8.git",
-                "reference": "0b40f8e86d645ac54814030c0e3de822f6bb6b1c"
+                "reference": "0319b2f30657d9d6eeb77916ba146209f4044edb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drutiny/plugin-drupal-8/zipball/0b40f8e86d645ac54814030c0e3de822f6bb6b1c",
-                "reference": "0b40f8e86d645ac54814030c0e3de822f6bb6b1c",
+                "url": "https://api.github.com/repos/drutiny/plugin-drupal-8/zipball/0319b2f30657d9d6eeb77916ba146209f4044edb",
+                "reference": "0319b2f30657d9d6eeb77916ba146209f4044edb",
                 "shasum": ""
             },
             "require": {
@@ -554,7 +554,7 @@
                 "report",
                 "ssh"
             ],
-            "time": "2018-07-31T23:21:08+00:00"
+            "time": "2018-08-09T23:02:35+00:00"
         },
         {
             "name": "erusev/parsedown",

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e96c59792be40acab24afd2cc1dbf23c",
+    "content-hash": "88d421f2f3c08df169a04731bb5cf2e6",
     "packages": [
         {
             "name": "caseyamcl/toc",

@@ -2,6 +2,7 @@
     "name": "ba66e77/drutinizeme",
     "description": "A shortcut project for auditing Drupal 8 sites using the Drutiny project.",
     "type": "project",
+    "license": "GPL-2.0-only",
     "minimum-stability": "dev",
     "authors": [
         {

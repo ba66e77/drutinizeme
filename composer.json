@@ -1,12 +1,12 @@
 {
-    "name": "ba66e77/psdrutiny",
-    "description": "A whole host of Drutiny goodness, specifically flavored for PS.",
+    "name": "ba66e77/drutinizeme",
+    "description": "A shortcut project for auditing Drupal 8 sites using the Drutiny project.",
     "type": "project",
     "minimum-stability": "dev",
     "authors": [
         {
             "name": "Barrett Smith",
-            "email": "barrett.smith@acquia.com"
+            "email": "barrett@datasmith.net"
         }
     ],
     "require": {
